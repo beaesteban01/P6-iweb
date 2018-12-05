@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+  background-color: rgba(200, 255, 200, 0.25);
+  margin-left: 15%;
+  margin-right: 15%;
+  border: solid 0.5em;
+  border-color: green;
+}
+
+#prev {
+  width: 8em;
+  height: 2em;
+  background-color: red;
+  color: white;
+  border-color: red;
+  font-family: Georgia, serif;
+}
+#next {
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 8em;
+  height: 2em;
+  background-color: green;
+  color: white;
+  border-color: green;
+  font-family: Georgia, serif;
+}
+#submit {
+  margin-right: 2%;
+  width: 8em;
+  height: 2em;
+  background-color: blue;
+  color: white;
+  border-color: blue;
+  font-family: Georgia, serif;
+}
+
+#end {
+  width: 8em;
+  height: 2em;
+  background-color: yellow;
+  color: black;
+  border-color: yellow;
+  font-family: Georgia, serif;
+}
+
+#tips {
+  margin-top: 1em;
+  background-color: grey;
+  color: black;
+}
+
+
+.botones {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}

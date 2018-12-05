@@ -1,0 +1,31 @@
+.Game {
+  align-items: center;
+  text-align: center;
+  align-self: center;
+  align-content: center;
+}
+
+.GameQuestion {
+  text-align: center;
+  border: solid;
+  color: white;
+  background-color: green;
+  font-family: Georgia, serif;
+  margin-top: 0%;
+}
+
+.texto {
+  text-align: center;
+  margin-top: 1em;
+  width: 50%;
+  color: black;
+
+}
+
+.imagen {
+  text-align: center;
+  margin-left: 1em;
+}
+
+#tipslist {
+}
